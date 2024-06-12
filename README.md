@@ -9,6 +9,10 @@ BigBase V2 Imgui base for Grand Theft Auto V
 - Hooking Deotur, VMT
 - Script
 - Logger
+- ImGui–based user interface
+- Unloading at runtime
+- Access to YSC script globals
+- scrProgram–based native hook
 
 # Update
 
