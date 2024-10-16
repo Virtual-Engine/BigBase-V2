@@ -6,7 +6,7 @@ BigBase V2 Imgui base for Grand Theft Auto V
 - Fiber Pool
 - Script Manager
 - DX UI
-- Hooking Deotur, VMT
+- Hooking Detour, VMT
 - Script
 - Logger
 - ImGui–based user interface
